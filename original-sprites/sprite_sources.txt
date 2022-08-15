@@ -1,0 +1,2 @@
+collectible = https://opengameart.org/content/shiny-treasure-icons-16x16
+wall/floor/player/exit = https://0x72.itch.io/16x16-dungeon-tileset
